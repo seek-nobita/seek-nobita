@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**seek-nobita/seek-nobita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning English and Japanese
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about What's happening in my Authoritarian country.
+- 📫 How to reach me: Telegram.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
